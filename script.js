@@ -382,7 +382,7 @@ switch (day) {
 //DECLARATION IS LIKE A COMPLETE SENCTENCE AND EXPRESSIONS ARE THE WORDS THATS USED FOR FILLING UP THE SENTENCE.
 
 const me = 'Sohom';
-console.log(`I'm ${2021 - 2002} years old and my name is ${me}`);
+console.log(`I'm ${2021 - 2002} years  old and my name is ${me}`);
 
 
 //28. THE CONDITIONAL (TERNARY) OPERATOR - it has 3 parts , the condition , if and else part.
